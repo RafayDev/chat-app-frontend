@@ -15,6 +15,7 @@ root.render(
     </ChakraProvider>
     </BrowserRouter>
   </React.StrictMode>
+  //check the git commit
 );
 
 // If you want to start measuring performance in your app, pass a function
